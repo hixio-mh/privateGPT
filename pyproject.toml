@@ -30,7 +30,7 @@ types-pyyaml = "^6.0.12.12"
 [tool.poetry.group.ui]
 optional = true
 [tool.poetry.group.ui.dependencies]
-gradio = "^3.45.2"
+gradio = "^4.19.0"
 
 [tool.poetry.group.local]
 optional = true
